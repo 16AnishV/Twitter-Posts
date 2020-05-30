@@ -4,6 +4,8 @@
 #Loading packages
 library(twitteR)
 library(dplyr)
+library("openssl")
+library("httpuv")
 
 
 # Necessary for starting up the Twitter API OAuth Connection

@@ -9,6 +9,8 @@ library(dplyr)
 library(plotly)
 library(maps)
 library(jsonlite)
+library("openssl")
+library("httpuv")
 
 # Necessary for starting up the Twitter API OAuth Connection
 if (!require("twitteR")) {
