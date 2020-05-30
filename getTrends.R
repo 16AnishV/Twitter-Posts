@@ -13,12 +13,12 @@ if (!require("twitteR")) {
 }
 
 # Storing the consumer key and variable
-consumer.key <- '974S5E5vr0pJ8VuOx2oIYf4Z0'
-consumer.secret <- '8acGBD7TKoLhFVG5TSsfa0PMeUpwnQgQVDwL1BfoGy5XHowIMb'
+consumer.key <- 'uW2SmOBe8GJXioVk3E1iXx3MO'
+consumer.secret <- '2zHSRuKTmRzzWwufuhYtFeRagktuJAyYmvY7ZN638CfikPDawL'
 
 # Storing the access token and secret
-access.token <- '804111108076228608-K6ml4zNsg2RZLb4ep3Dir4JJhuzb1AQ'
-access.secret <- 'nwvP4yzA6mKNE2P0Ma0diEvHQNN24McUnLH80kbmD4uGx'
+access.token <- '1081803101177184257-aRuA41akLRRFWFbFexdiwhMNKW6ioq'
+access.secret <- 'HMkX6uJC6HAJelYcpRO8Mpxx3wdExK5WxV0w4GoQddhrg'
 
 # This will enable the use of a local file to cache OAuth access credentials between R sessions.
 options(httr_oauth_cache=T)
